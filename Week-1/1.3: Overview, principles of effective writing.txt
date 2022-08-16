@@ -1,0 +1,51 @@
+In this next module, I'm going to go through another example, and use it to illustrate some of the principles of effective writing that I'm going to be talking about this week as well as next week.
+Play video starting at ::14 and follow transcript0:14
+Here's an example that I pulled out of Cell, which is a top biology journal, with a high impact factor, something around 30. Again, this example is typical of the scientific literature.
+Play video starting at ::25 and follow transcript0:25
+It reads, dysregulation of physiologic microRNA, miR, activity has been shown to play an important role in tumor initiation and progression, including gliomagenesis.
+Play video starting at ::37 and follow transcript0:37
+Therefore, molecular species that can regulate miR activity on their target RNAs without affecting the expression of relevant mature miRs may play equally relevant roles in cancer.
+Play video starting at ::49 and follow transcript0:49
+I find this passage hard to read. I have to struggle to figure out exactly what it is the authors were intending to say.
+Play video starting at ::58 and follow transcript0:58
+I'm going to point out some specific features that make this example difficult to read.
+Play video starting at :1:5 and follow transcript1:05
+First of all, as in some earlier examples we saw, there's the use of nouns rather than verbs.
+Play video starting at :1:12 and follow transcript1:12
+The authors use dysregulation, initiation, progression, and expression. Those are all nouns that could've been verbs. Dysregulate, initiate, progress, and express.
+Play video starting at :1:24 and follow transcript1:24
+Verbs move sentences along, whereas nouns slow the reader down.
+Play video starting at :1:30 and follow transcript1:30
+The others also use some vague words. The problem with vague words is that the reader cannot get a concrete picture in their head of what the author is talking about. So these vague words don't add anything. For example, the word physiologic here, physiology is something that's really broad, so I'm not exactly sure what the authors mean by physiologic. It doesn't add anything for me, and then we get to molecular species. Molecular species could be a lot of things, it doesn't give me a concrete picture of what the authors are talking about.
+Play video starting at :2:5 and follow transcript2:05
+Also note the use of unnecessary jargon and acronyms in this passage. We get the term gliomagenesis, which is a fancy way to say the formation of glioma. So there's an easier and more direct way to say that. We also get an interesting acronym or initialism in this example. The acronym is actually the reason that I picked this particular example, I find it amusing. The authors abbreviated the term microRNA as miR. It's amusing because RNA is already itself an acronym, so the authors have made an acronym of an acronym.
+Play video starting at :2:39 and follow transcript2:39
+This just illustrates how ridiculous and widespread acronyms and initialisms are in the scientific literature. Authors love acronyms. They throw them in all over the place.
+Play video starting at :2:50 and follow transcript2:50
+The problem with acronyms is that, unless they are standard terms that everybody is familiar with, most readers aren't going to know your acronym. This means that every time they get to your acronym in the paper, they're going to have to stop and go and look that acronym up. It's like they have to translate a foreign word. This is really annoying to readers and it also greatly slows their reading down. So we don't want to do that obviously. You can see in this case, there's no benefit to using the acronym. You're only saving a few letters here by using miR rather than microRNA, but it completely slows the reader. So I'm going to encourage you, or advise you to avoid the use of acronyms, other than those that are completely standard that most people will know.
+Play video starting at :3:37 and follow transcript3:37
+Another thing I want to point out is, in this first sentence the authors use the passive voice. We get the passive verb here is, has been shown. Now, if you're not familiar with the difference between active and the passive voice, don't worry. We're going to go into this in great detail next week in our unit on verbs. But for now, I'll just point out that this verb construction is awkward. The passive voice is hard to read because it's not the way we talk.
+Play video starting at :4:3 and follow transcript4:03
+To give a simple example, take the sentence, she throws the ball. That's in the active voice.
+Play video starting at :4:10 and follow transcript4:10
+To turn that into the passive voice, you would say the ball is thrown by her. And you can hear how awkward that sounds. Again, we'll go into much more detail about this next week.
+Play video starting at :4:21 and follow transcript4:21
+Now the second sentence is actually in the active voice but it has a different problem with the verb.
+Play video starting at :4:27 and follow transcript4:27
+The subject of that sentence is molecular species.
+Play video starting at :4:31 and follow transcript4:31
+The main verb or the predicate of that sentence is may play. So notice we don't get to the main verb for a long time. We have molecular species and then this long descriptive clause, and then we finally get to the main verb at may play. The problem is that the reader is waiting for the verb. Until you give the reader the verb, the reader doesn't know where you're going with the sentence. So putting too much distance between the subject of the sentence and the main verb is a problem. That's another thing that we'll talk about in great detail next week in our unit on verbs. So I took that passage and I rewrote it to try to fix some of these issues. I did not have the authors sitting right next to me while I was doing this edit, so I am not 100% sure that this is what they were trying to say, but I think I got the gist of it.
+Play video starting at :5:18 and follow transcript5:18
+The rewrite says, changes in microRNA expression play a role in cancer, including glioma. Therefore, events that disrupt microRNAs from binding to their target RNAs may also promote cancer.
+Play video starting at :5:32 and follow transcript5:32
+Notice how much shorter and easier to understand this is compared with the original passage. But it still conveys the same ideas.
+Play video starting at :5:42 and follow transcript5:42
+So this leads me to an overview of the specific principles of effective writing that we're going to be talking about this week and next week.
+Play video starting at :5:51 and follow transcript5:51
+The first principle I want you to learn is to cut your words, cut unnecessary words and phrases, get rid of the clutter.
+Play video starting at :6: and follow transcript6:00
+We are going to spend the rest of this week talking about cutting clutter.
+Play video starting at :6:6 and follow transcript6:06
+Next week we'll talk in great detail about the use of the active voice rather than the passive voice.
+Play video starting at :6:14 and follow transcript6:14
+And we'll also talk about writing with verbs, using strong verbs, avoiding turning verbs into nouns, and not burying the main verb. But for the rest of this week, we're going to tackle cutting clutter.

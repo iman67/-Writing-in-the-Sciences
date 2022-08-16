@@ -1,0 +1,47 @@
+In this second module I'm going to go through some specific examples. These are representative of what's out there in the scientific literature. They're also examples of what not to do.
+Play video starting at ::13 and follow transcript0:13
+I want to start my slides with a disclaimer. I pick up snippets, sentences, paragraphs from various things I read, sometimes my students' work, sometimes the scientific literature, and I'm often critiquing that writing. So I tend to omit exact citations from my slides, just so that it doesn't appear that I'm critiquing any particular author. Really, these examples just typify what's out there in the scientific literature.
+Play video starting at ::39 and follow transcript0:39
+I want to start with a sentence that I was reading in an article in the journal of Clinical oncology. This is one of the top cancer journals, and this was the first sentence of the introduction section. This is when the authors are supposed to be drawing you into their paper.
+Play video starting at ::54 and follow transcript0:54
+And it reads, adoptive cell transfer, immunotherapy is based on the ex vivo selection of tumor-reactive lymphocytes, and their activation and numerical expression before reinfusion to the autologous tumor-bearing host. Now I have a background in biology, and I still find this sentence hard to read. I have to struggle to get through it. And that's a shame because, if your reader has to struggle to get through your sentences, they may not finish reading your paper. They certainly aren't going to understand your ideas.
+Play video starting at :1:27 and follow transcript1:27
+So ask yourself the question, is this sentence easy to understand? I don't think it is.
+Play video starting at :1:33 and follow transcript1:33
+Is the sentence enjoyable and interesting to read? No, it's not enjoyable, when you have to struggle just to get through it. And really the scientific literature should be enjoyable and interesting to read. Here's another fun example. This was from a paper I was reading from the journal of Photochemistry and Photobiology. It was actually an interesting article that had some practical implications about the way that we apply sunscreen. And so I was trying to write about it for a very general audience.
+Play video starting at :2:6 and follow transcript2:06
+I was reading along in the article and then I get to this sentence. These findings imply that the rates of ascorbate radical production and its recycling via dehydroascorbate reductase to replenish the ascorbate pool are equivalent at the lower irradiance, but not equivalent at higher irradiance with the rate of an ascorbate radical production exceeding its recycling back to ascorbate. All right, you can see that this sentence is incredibly difficult to read. Even if you had a strong background in chemistry it still very difficult to understand.
+Play video starting at :2:37 and follow transcript2:37
+So you again want to ask yourself, is this sentence readable?
+Play video starting at :2:41 and follow transcript2:41
+I don't think it's very readable. Is it written to inform or to obscure? And I ask this question because, sometimes when I'm reading the scientific literature I wonder, if the authors are being intentionally obscure, intentionally obtuse. If they're intentionally trying to obscure their material in the hopes that if nobody understands it, then nobody can poke holes in their research. Certainly we don't want to be doing that, certainly the point of scientific writing is to inform.
+Play video starting at :3:15 and follow transcript3:15
+I'm going to point out one feature that's commen to both of these two passages that I just showed you. In both of those examples, they took some nice spunky verbs and turned them into clunky nouns. This is incredibly common in academic writing, but it makes the writing hard to read. Because verbs drives sentences whereas nouns slow them down.
+Play video starting at :3:38 and follow transcript3:38
+In that first example, we have selection, activation, expression, and reinfusion. Those are all nouns that are dragging the sentence down, but they could've been verbs. Select, activate, express, and reinfuse.
+Play video starting at :3:53 and follow transcript3:53
+If the same problem in this second sentence, we get production and recycling which are nouns that could have been verbs. To produce, to recycle.
+Play video starting at :4:4 and follow transcript4:04
+Writing with verbs is actually something we're going to spend a lot of time on next week in our unit on verbs.
+Play video starting at :4:11 and follow transcript4:11
+So I took that second sentence, and I tried to translate it into something understandable. Here's what I came up with. These findings imply that at lower radiation ascorbate radicals are produced and recycled at the same rate, but at higher radiation they are produced faster than they can be recycled back to ascorbate.
+Play video starting at :4:28 and follow transcript4:28
+It's not the most exciting sentence ever, but I think it's at least understandable now. You can get the gist of what the authors are trying to say.
+Play video starting at :4:37 and follow transcript4:37
+Notice what I did here, is I stripped a lot of extra words from that sentence.
+Play video starting at :4:42 and follow transcript4:42
+I've got it down to about half the size of the original.
+Play video starting at :4:46 and follow transcript4:46
+And then I turned those nouns, production and recycling back into verbs, produced and recycled.
+Play video starting at :4:54 and follow transcript4:54
+I want to get across two themes in this course. One is that even though we're writing about science, about complex and technical things, that doesn't mean we have to use complex language. We can get across complex and technical ideas even with simple language.
+Play video starting at :5:10 and follow transcript5:10
+If we did that, scientific writing would be a lot easier and more enjoyable to read. And you want to aim to write things that are easy to understand, and are enjoyable for your reader.
+Play video starting at :5:23 and follow transcript5:23
+I love this quote, I pulled this out of something I read back in 2003, and I kept it in my slides ever since, because I think it makes a really important point. The author writes, my professor friend told me that in his academic world, publish or perish is really true. He doesn't care if nobody reads it or understands it as long as it's published. And there's a hint of truth here right? There is pressure to publish, and sometimes it may feel like you're just trying to get something published, and get it on your CV.
+Play video starting at :5:56 and follow transcript5:56
+That's a shame, because obviously that shouldn't be the goal of science.
+Play video starting at :6:2 and follow transcript6:02
+If nobody cares about your work and nobody reads it, then obviously, it's not going to move science along at all. So when you're sitting down to write, I want you to think very carefully about making sure that, your reader understands your writing, and that your reader cares about your writing. You want to make you reader care.
+Play video starting at :6:22 and follow transcript6:22
+If you do that, they're more likely to pick up on your ideas, they're more likely to cite your work, and it's more likely to move science forward.
